@@ -1,0 +1,5 @@
+bandit
+safety
+flake8
+mypy
+coverage
